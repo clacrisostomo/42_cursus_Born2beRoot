@@ -7,7 +7,7 @@ A VM is a great way to test and/or use programs that should work on a specific O
 
 <h3> Operating System </h3>
 
-We had to choose between CentOS and Debian. I have chose Debian because it is easier to configure and a more user-friendly interface.
+We had to choose between CentOS and Debian. I have chosen Debian because it is easier to configure and a more user-friendly interface.
 
 
 
